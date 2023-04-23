@@ -107,7 +107,7 @@ local Themes = {
         ToggleInnerEnabled = Color3.fromRGB(255, 211, 105),
         ContainerHolder = Color3.fromRGB(25, 32, 43),
         HighlightUIStroke = Color3.fromRGB(79, 94, 124),
-        Highlight = Color3.fromRGB(255, 229, 121)
+        Highlight = Color3.fromRGB(3, 36, 253)
     }
 }
 
