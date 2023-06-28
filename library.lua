@@ -75,7 +75,7 @@ local Themes = {
         HighlightUIStroke = Color3.fromRGB(86, 89, 127),
         Highlight = Color3.fromRGB(253, 191, 67)
     },
-    ["Starry Night"] = {
+    ["MrPectable"] = {
         Topbar = Color3.fromRGB(21, 26, 33),
         TabContainer = Color3.fromRGB(19, 23, 30),
         Lines = Color3.fromRGB(44, 53, 67),
